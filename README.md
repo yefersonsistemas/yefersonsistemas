@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yeferson Morales
-- 👀 I’m interested in Robotics and Machine Learning
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Front-end projects
+- 👀 I’m interested in Growth Marketing and Design
+- 🌱 I’m currently learning UI UX Prototyping
+- 💞️ I’m looking to collaborate on Front-end and Marketing projects
 - 📫 You can reach me at https://yefersonmorales.netlify.app
 
 <!---
